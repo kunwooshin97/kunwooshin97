@@ -1,4 +1,4 @@
-## Hi! I am Kunwoo Shin 🦊
+## Hi! I'm Kunwoo Shin 🦊
 
 <!--
 **kunwooshin97/kunwooshin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
